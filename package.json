@@ -1,0 +1,20 @@
+{
+  "name": "holland-club-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for Holland football clubs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": ["scraper", "puppeteer", "football", "clubs"],
+  "author": "Nagrom33",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
