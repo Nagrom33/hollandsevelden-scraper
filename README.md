@@ -85,7 +85,7 @@ saveJson	boolean	true	Save results to JSON file
 Club Data Structure
 
 Each club object contains:
-javascript
+```javascript
 
 {
   "logoUrl": "https://www.hollandsevelden.nl/path/to/small-logo.jpg",
@@ -96,6 +96,7 @@ javascript
   "shirtImgUrl": "path/to/shirt-image.jpg",
   "bigLogoFile": "logos/big/club-logo.jpg"
 }
+```
 
 Files Created
 
