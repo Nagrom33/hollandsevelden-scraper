@@ -3,6 +3,7 @@ Holland Football Club Scraper
 A Node.js web scraper for extracting football club information from hollandsevelden.nl using Puppeteer.
 📁 Project Structure
 
+```
 holland-club-scraper/
 ├── index.js              # Main application entry point
 ├── package.json          # Project dependencies and scripts
@@ -15,6 +16,7 @@ holland-club-scraper/
 │   └── download.js       # Download and file utilities
 └── logos/                # Downloaded images (created automatically)
     └── big/              # High-resolution club logos
+```
 
 🚀 Features
 
