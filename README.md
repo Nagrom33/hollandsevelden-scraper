@@ -54,8 +54,9 @@ The application will ask you:
 Programmatic Usage
 
 You can also use the scraper programmatically:
-javascript
 
+
+```javascript
 const { scrapeClubs } = require('./lib/scraper');
 const { getDefaultConfiguration } = require('./lib/config');
 
@@ -71,6 +72,7 @@ async function customScrape() {
 }
 
 customScrape().catch(console.error);
+```
 
 ⚙️ Configuration Options
 
