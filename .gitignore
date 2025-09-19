@@ -1,3 +1,5 @@
 clubs.json
 logos/
 node_modules/
+.vscode/
+.DS_Store
